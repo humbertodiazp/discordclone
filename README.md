@@ -1,24 +1,6 @@
-# README
+# discordclone
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A discord clone built using ruby on rails. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Built following curriculum by Malacow 
+https://www.youtube.com/@malacow
