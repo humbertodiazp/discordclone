@@ -11,4 +11,6 @@
   <% end %>
 </div>
 
+<% @users.each do |user| %>
+<% link_to user.email, user%>
 <%= link_to "New room", new_room_path %>
