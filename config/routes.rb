@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  get 'user/show'
   resources :messages
   devise_for :users
   resources :rooms
